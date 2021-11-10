@@ -7,9 +7,9 @@ Distributed Cloud Security can easily be implemented into your website, landing 
 Using this solution any visitor IP that has been marked as dangerous will be blocked with a **403 Forbidden** header and the connection will be terminated. With this in place you can make sure that only legit traffic is reaching your online content and bad guys are blocked minimizing the attack-surface and protecting your clients and servers automatically without human intervention.
 
 
-`trized_dcs.inc.php` - Main API library (PHP) which is included in the below examples
+`example_security.html` - Implementation example website, landing page or application (PHP support with Curl is required)
 
-`example_security.php` - Place this code snippet on top of your website, landing page or application to secure it
+`trized_dcs.inc.php` - Main API library (PHP) which is included in the below examples
 
 
 **Integrating DCS into Iptables firewall using Ipset and CRON:**
