@@ -1,6 +1,6 @@
 # TRIZEd - Distributed Cloud Security
 
-**Protect your private cloud from bad traffic**
+**Protecting your private cloud from unwanted traffic (PHP example)**
 
 `trized_dcs.inc.php` - Main DCS connection library
 
