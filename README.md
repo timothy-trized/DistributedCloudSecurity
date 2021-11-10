@@ -4,5 +4,5 @@ Protect your private cloud from bad traffic
 `      
 // Check the visitor IP reputation
 require('public/trized_dcs.inc.php');
-check_ip_reputation('dd7a5347-ab50-4746-b794-9ca1212e8e88','register');
+check_ip_reputation('YOUR-REST-API-KEY-GOES-HERE','register');
 `
